@@ -1,0 +1,186 @@
+
+[
+  {
+    "id": -1,
+    "ayehNo": 0,
+    "text": [],
+    "sureh": 1,
+    "section": 0,
+    "pageNo": 1
+  },
+  {
+    "id": 1,
+    "ayehNo": 2,
+    "text": [
+      "الْحَمْدُ ",
+      "لِلَّهِ "
+    ],
+    "sureh": 1,
+    "section": 0,
+    "pageNo": 1,
+    "translation": "ستايش خدايى را"
+  },
+  {
+    "id": 2,
+    "ayehNo": 2,
+    "text": [
+      "رَبِّ ",
+      "الْعَالَمِينَ "
+    ],
+    "sureh": 1,
+    "section": 1,
+    "pageNo": 1,
+    "translation": "كه پروردگار جهانيان"
+  },
+  {
+    "id": 3,
+    "ayehNo": 3,
+    "text": [
+      "الرَّحْمَٰنِ "
+    ],
+    "sureh": 1,
+    "section": 0,
+    "pageNo": 1,
+    "translation": "رحمتگر"
+  },
+  {
+    "id": 4,
+    "ayehNo": 3,
+    "text": [
+      "الرَّحِيمِ "
+    ],
+    "sureh": 1,
+    "section": 1,
+    "pageNo": 1,
+    "translation": "مهربان"
+  },
+  {
+    "id": 5,
+    "ayehNo": 4,
+    "text": [
+      "مَالِكِ "
+    ],
+    "sureh": 1,
+    "section": 0,
+    "pageNo": 1,
+    "translation": "[و] مالک"
+  },
+  {
+    "id": 6,
+    "ayehNo": 4,
+    "text": [
+      "يَوْمِ ",
+      "الدِّينِ "
+    ],
+    "sureh": 1,
+    "section": 1,
+    "pageNo": 1,
+    "translation": "روز جزاست"
+  },
+  {
+    "id": 7,
+    "ayehNo": 5,
+    "text": [
+      "إِيَّاكَ ",
+      "نَعْبُدُ "
+    ],
+    "sureh": 1,
+    "section": 0,
+    "pageNo": 1,
+    "translation": "[بار الها] تنها تو را مى پرستيم [بار الها] تنها تو را مى پرستيم"
+  },
+  {
+    "id": 8,
+    "ayehNo": 5,
+    "text": [
+      "وَإِيَّاكَ ",
+      "نَسْتَعِينُ "
+    ],
+    "sureh": 1,
+    "section": 1,
+    "pageNo": 1,
+    "translation": "و تنها از تو يارى مى جوييم و تنها از تو يارى مى جوييم"
+  },
+  {
+    "id": 9,
+    "ayehNo": 6,
+    "text": [
+      "اهْدِنَا "
+    ],
+    "sureh": 1,
+    "section": 0,
+    "pageNo": 1,
+    "translation": "ما را"
+  },
+  {
+    "id": 10,
+    "ayehNo": 6,
+    "text": [
+      "الصِّرَاطَ ",
+      "الْمُسْتَقِيمَ "
+    ],
+    "sureh": 1,
+    "section": 1,
+    "pageNo": 1,
+    "translation": "به راه راست هدايت فرما"
+  },
+  {
+    "id": 11,
+    "ayehNo": 7,
+    "text": [
+      "صِرَاطَ ",
+      "الَّذِينَ "
+    ],
+    "sureh": 1,
+    "section": 0,
+    "pageNo": 1,
+    "translation": ""
+  },
+  {
+    "id": 12,
+    "ayehNo": 7,
+    "text": [
+      "أَنْعَمْتَ ",
+      "عَلَيْهِمْ "
+    ],
+    "sureh": 1,
+    "section": 1,
+    "pageNo": 1,
+    "translation": ""
+  },
+  {
+    "id": 13,
+    "ayehNo": 7,
+    "text": [
+      "غَيْرِ ",
+      "الْمَغْضُوبِ "
+    ],
+    "sureh": 1,
+    "section": 2,
+    "pageNo": 1,
+    "translation": ""
+  },
+  {
+    "id": 14,
+    "ayehNo": 7,
+    "text": [
+      "عَلَيْهِمْ "
+    ],
+    "sureh": 1,
+    "section": 3,
+    "pageNo": 1,
+    "translation": ""
+  },
+  {
+    "id": 15,
+    "ayehNo": 7,
+    "text": [
+      "وَلَا ",
+      "الضَّالِّينَ "
+    ],
+    "sureh": 1,
+    "section": 4,
+    "pageNo": 1,
+    "translation": ""
+  }
+]
